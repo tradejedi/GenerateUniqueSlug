@@ -5,8 +5,8 @@
   "license" : "MIT",
   "version" : "1.0.1",
   "require": {
-    "php": ">=8.2",
-    "illuminate/database": "@stable"
+    "php": "^8.2",
+    "laravel/framework": "^11.31"
   },
   "minimum-stability": "stable",
   "autoload": {
