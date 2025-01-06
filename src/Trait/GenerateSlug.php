@@ -1,6 +1,6 @@
 <?php
 
-namespace CoolmacJedi\Traits;
+namespace TradeJedi\Traits;
 
 use Illuminate\Support\Str;
 
