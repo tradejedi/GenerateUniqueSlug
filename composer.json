@@ -1,11 +1,13 @@
 {
-  "name": "coolmacjedi/laravel-slug-generator-trait",
+  "name": "tradejedi/laravel-slug-generator-trait",
   "description": "A Laravel trait for generating unique slugs.",
   "type": "library",
+  "version" : "1.0.1",
   "require": {
     "php": ">=8.2",
     "illuminate/database": "^8.0 || ^9.0 || ^10.0"
   },
+  "minimum-stability": "stable",
   "autoload": {
     "psr-4": {
       "TradeJedi\\": "src/"
