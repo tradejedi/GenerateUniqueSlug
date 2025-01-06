@@ -4,7 +4,7 @@ namespace TradeJedi\Traits;
 
 use Illuminate\Support\Str;
 
-trait GeneratesSlug
+trait GenerateSlug
 {
     /**
      * Генерация уникального slug.
