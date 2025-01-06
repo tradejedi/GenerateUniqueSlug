@@ -1,5 +1,5 @@
 {
-  "name": "coolmacjedi/slug-generator",
+  "name": "coolmacjedi/laravel-slug-generator",
   "description": "A Laravel trait for generating unique slugs.",
   "type": "library",
   "require": {
