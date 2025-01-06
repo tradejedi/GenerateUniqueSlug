@@ -1,0 +1,1 @@
+This is a simple trait to generate a unique slug for Laravel. 
